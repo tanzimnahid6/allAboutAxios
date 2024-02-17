@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "New title",
+      "views": 0
+    },
+    {
+      "id": "3",
+      "title": "yet another title",
+      "views": 150
+    },
+    {
+      "id": "4",
+      "title": "more titles",
+      "views": 120
+    },
+    {
+      "id": "6",
+      "title": "titlemania",
+      "views": 130
+    },
+    {
+      "id": "7",
+      "title": "title galore",
+      "views": 170
+    },
+    {
+      "id": "9",
+      "title": "title bonanza",
+      "views": 160
+    },
+    {
+      "id": "10",
+      "title": "title fest",
+      "views": 140
+    },
+    {
+      "title": "New title",
+      "views": "7",
+      "id": "qkI1skg"
+    },
+    {
+      "title": "hello world",
+      "views": "14",
+      "id": "aN7ZUBG"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
